@@ -1,0 +1,27 @@
+# Builds
+dist
+build
+.next
+out
+coverage
+
+# Dependencies
+node_modules
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.*
+
+# Cache
+.cache
+.turbo
+.vite
+
+# Git
+.git
